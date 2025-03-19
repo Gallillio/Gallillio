@@ -114,5 +114,4 @@ I do AI & software development stuff – it's pretty cool. I name myself **Galli
 
 <div align="center">
   **Thanks for visiting my profile! Have a great day!** 👋
-  ![Snake animation](https://github.com/Gallillio/Gallillio/blob/output/github-contribution-grid-snake.svg)
 </div>
