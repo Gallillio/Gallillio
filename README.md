@@ -12,7 +12,8 @@ I do AI & software development stuff – it's pretty cool. I name myself **Galli
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/ad38c424479dba43b6ded15fecfde6b53cf9fcd6ff3dc7715d5bcb43f8bbefb8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966">
 
-- 🔭 I'm currently working on the **LLM, Speech, & Automation systems of Robots**
+- 🔭 I'm currently working on the **LLM, Speech, & Automation systems of Robots** at "Intelligent Systems".
+- ⭐ Currently building an **AI Sales Consultant SaaS** for "Selzeky".
 - 🌱 I'm currently learning **Next.js** to enhance AI-driven web applications
 - 👯 I'm looking to collaborate on **innovative projects**
 - 💬 Ask me about **LLMs, Integrating AI into your Software**
@@ -89,7 +90,7 @@ I do AI & software development stuff – it's pretty cool. I name myself **Galli
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gallillio&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gallillio&theme=radical" alt="GitHub Streak" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gallillio&theme=radical" alt="GitHub Streak" /> -->
 </div>
 
 <div align="center">
