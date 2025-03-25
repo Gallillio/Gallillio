@@ -76,9 +76,6 @@ I do AI & software development stuff – it's pretty cool. I name myself **Galli
 ## 🏆 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/Gallillio/Portfolio_Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gallillio&repo=Portfolio_Website&theme=radical" alt="Project 2" />
-  </a>
   <a href="https://github.com/Gallillio/MERN-IIG_HEC_Company_Website">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gallillio&repo=MERN-IIG_HEC_Company_Website&theme=radical" alt="Project 1" />
   </a>
