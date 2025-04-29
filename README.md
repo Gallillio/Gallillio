@@ -1,7 +1,7 @@
 # 👋 Hello, World! I'm Ahmed Galal Elzeky
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=31&duration=3500&pause=100&color=F7F7F7&center=true&width=435&lines=AI+Developer;Software+Developer;Professional+Nerd" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=31&duration=3500&pause=100&color=F7F7F7&center=true&width=435&lines=AI+Developer;Software+Developer;XR+Developer;Professional+Nerd" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
